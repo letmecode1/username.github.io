@@ -8,17 +8,17 @@
 **Transmission Control Protocol (TCP)** The most commonly used protocol on the Internet, because TCP offers error correction
 
 ## X Area Netowrk:
-**Local Area Network (LAN)** Limited geographical area
+**Local Area Network (LAN)**: Limited geographical area
 
-**Wide Area Network (WAN)** Large geographical area
+**Wide Area Network (WAN)**: Large geographical area
 
-**Metropolitan Area Network (MAN)** Covers a city
+**Metropolitan Area Network (MAN)**: Covers a city
 
-**Campus Area Network (CAN)** Covers building on a campus
+**Campus Area Network (CAN)**: Covers building on a campus
 
-**Personal Area Network (PAN)** Very small network
+**Personal Area Network (PAN)**: Very small network
 
-**Storage Area Network (SAN)** Robust part of LAN housing storage
+**Storage Area Network (SAN)**: Robust part of LAN housing storage
 
 
 
