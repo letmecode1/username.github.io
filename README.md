@@ -8,7 +8,7 @@
 **Transmission Control Protocol (TCP)** The most commonly used protocol on the Internet, because TCP offers error correction
 
 ## X Area Netowrk:
-**Local Area Network (Lan)** Limited geographical area
+**Local Area Network (LAN)** Limited geographical area
 
 **Wide Area Network (WAN)** Large geographical area
 
